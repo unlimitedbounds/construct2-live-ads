@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="construct.admob.app" version="1.0.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-	<name>Construct2-admob</name>
-	<description>Construct2 admob demo</description>
+<widget id="construct.admob.appliveads" version="1.0.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+	<name>Construct2-admob-liveads</name>
+	<description>Construct2 admob liveads demo</description>
 	<author>fx6600</author>
 
 	<icon src="www/icon-256.png" width="256" height="256" density="xxxhdpi" />
